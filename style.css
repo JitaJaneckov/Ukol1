@@ -1,0 +1,70 @@
+body {
+    color:#282425;
+    background-color:#fff1e6;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 16px;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family:'Bodoni Moda', serif;
+    font-style: italic;
+    text-shadow: 1px 1px black;
+    color:aquamarine;
+    text-decoration: darkcyan;
+}
+
+h2 {
+    font-family:'Bodoni Moda', serif;
+    font-style: italic;
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 18px; 
+}
+
+h4 {
+    font-size: 10;
+}
+
+a {
+    color: rgb(104, 57, 57);
+}
+
+.hlavicka {
+    color:aquamarine;
+    font-size: 32px;
+    background-color:rgb(167, 145, 145);
+    text-align: center;
+    padding: 10px 50px 10px 10px;
+    margin: 10px;
+}
+
+.paticka {
+    background-color:rgb(167, 145, 145);
+    text-align: center;
+    size: 12px;
+}
+
+.me-foto {
+    float: left;
+    overflow: auto;
+    width: 20%;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.detaily {
+    line-height: 1;
+}
+
+.row {
+  display: flex; 
+}
+
+.column {
+    padding: 10px;
+}
+
