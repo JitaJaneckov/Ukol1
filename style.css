@@ -1,35 +1,31 @@
 body {
     color:#282425;
     background-color:#fff1e6;
-    font-family: 'Tilt Neon', cursive;
+    font-family: 'Labrada', serif;
     font-size: 16px;
     line-height: 1.5;
     box-sizing: border-box;
 }
 
 h1 {
-    font-family:'Bodoni Moda', serif;
+    font-family: 'Labrada', serif;
     font-style: italic;
     text-shadow: 1px 1px black;
-    color:aquamarine;
+    color:rgb(23, 85, 64);
     text-decoration: darkcyan;
 }
 
 h2 {
-    font-family:'Bodoni Moda', serif;
+    font-family: 'Labrada', serif;
     font-style: italic;
     font-size: 28px;
-}
-
-h2:hover,
-h2:focus,
-h2:active {
-    background-color: antiquewhite;
+    color: rgb(9, 90, 63);
 }
 
 h3 {
     font-size: 18px; 
-    font-family:Verdana, Geneva, Tahoma, sans-serif;   
+    font-family: 'Labrada', serif;
+    text-decoration: underline;
 }
 
 h4 {
@@ -47,18 +43,22 @@ a:active {
 }
     
 .hlavicka {
-    color:aquamarine;
+    color:#584f51;
     font-size: 32px;
+    font-family: serif;
+    font-style: italic;
     background-color:rgb(167, 145, 145);
     text-align: center;
     padding: 20px 50px 20px 20px;
     margin: 10px;
+    border: 2px solid black;
 }
 
 .paticka {
     background-color:rgb(167, 145, 145);
     text-align: center;
     font-size: 12px;
+    border: 2px solid black;
 }
 
 table {
@@ -89,6 +89,7 @@ td {
 }
 
 .column {
-    padding: 10px;
+    padding: 80px;
 }
+
 
